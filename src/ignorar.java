@@ -1,9 +1,9 @@
 
-public class clase {
+public class ignorar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("es prueba modifcamdo mas modif");
+		System.out.println("ignorar ");
 	}
 
 }
